@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Hello Signals",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T15:50:17.315335Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hello Signals",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_Hello_Signals_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hello Signals",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_Hello_Signals_Ado.txt"
+    }
+  ]
+}
